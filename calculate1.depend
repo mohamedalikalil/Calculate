@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529604133 source:f:\training 2\code programe\task\calculate1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
